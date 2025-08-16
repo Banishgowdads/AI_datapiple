@@ -38,7 +38,9 @@ This project demonstrates a full **ETL → ML → Deployment pipeline**:
 1. Clone the repository:
    
 git clone https://github.com/AI_datapipline
+
 cd ai-data-pipeline
+
 2. Create a virtual environment:
 
 python -m venv venv
