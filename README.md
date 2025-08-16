@@ -37,7 +37,7 @@ This project demonstrates a full **ETL → ML → Deployment pipeline**:
 ## 📂 Installation
 1. Clone the repository:
    
-git clone https://github.com/AI_datapipline.git
+git clone [https://github.com/AI_datapipline.git](https://github.com/Banishgowdads/AI_datapiple)
 
 cd ai-data-pipeline
 
